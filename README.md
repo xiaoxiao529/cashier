@@ -1,6 +1,6 @@
 # posweb
 
-> 一个快餐店收银系统
+> 一个快餐店收银系统，知识点包括：vue-cli+vue-router+axios+element框架+localstorage
 
 ## Build Setup
 
