@@ -1,6 +1,6 @@
 # posweb
 
-> A Vue.js project
+> 一个快餐店收银系统
 
 ## Build Setup
 
